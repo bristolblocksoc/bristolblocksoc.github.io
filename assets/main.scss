@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    color: #fff;
+    background-color: #000;
+}
+
+.site-title, .site-title:visited {
+    color: #fff;
+}
+
+.site-nav .page-link {
+    color: #fff;
+}
+
